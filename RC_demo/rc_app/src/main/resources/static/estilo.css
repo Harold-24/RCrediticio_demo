@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+div{
+    background-color: bisque;
+    border: solid rgb(0, 0, 60) 5px;
+    border-radius: 10px;
+}
